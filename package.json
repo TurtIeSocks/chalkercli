@@ -2,7 +2,7 @@
   "name": "chalkercli-v2",
   "description": "Colorful animations in terminal output",
   "version": "2.0.0",
-  "author": "Derick Magnusen",
+  "author": "TurtIeSocks <58572875+TurtIeSocks@users.noreply.github.com>",
   "bin": "./cli.js",
   "bugs": "https://github.com/veniqa/chalker/issues",
   "dependencies": {
